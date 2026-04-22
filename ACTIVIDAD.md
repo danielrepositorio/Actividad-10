@@ -1,9 +1,9 @@
 # Actividad-10
 Actividad 10 Laboratorio Comunicación Asertiva
 # Integrantes
-### 202505267 Ashley Alexandra López Solval  
+### 202505267 Ashley Alexandra López Solval - evidencia dtt
 ### 202500065 Ángel Rafael Juarez Higueros
-### 202500007 Edgar Daniel Cabrera Arévalo
+### 202500007 Edgar Daniel Cabrera Arévalo - evidencia dtt
 ---
 # Micropropuesta: Implementación de Control de Versiones con Git
 
